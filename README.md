@@ -7,3 +7,9 @@ Answer:
 
 ## Guide:
 https://linuxconfig.org/flatpak-offline-repository-usage
+
+https://blogs.gnome.org/mclasen/2018/08/26/about-flatpak-installations/
+
+## Doc
+https://docs.flatpak.org/en/latest/usb-drives.html
+https://docs.flatpak.org/en/latest/single-file-bundles.html
