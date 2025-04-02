@@ -1,5 +1,5 @@
 # Flatpak.Knowledge
-# Offline Install:
+# Offline Repo, Offline Install:
 sch: https://www.google.com/search?q=flatpak+offline+install https://www.google.com/search?q=flatpak+download+offline https://www.google.com/search?q=flatpak+install+from+file https://www.google.com/search?q=flatpak+download+install+from+file
 
 Answer:
